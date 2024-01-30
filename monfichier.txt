@@ -2,3 +2,4 @@ le partiel de github est en cours
 conflit git 
 ma nouvelle branch
 modification clone
+git tag
